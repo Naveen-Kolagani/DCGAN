@@ -1,4 +1,4 @@
 # DCGAN
 <h3>This repo shows an implementation of DCGAN on MNIST dataset</h3>
-<h3>I got this code <a href="https://github.com/llSourcell/Generative_Adversarial_networks_LIVE">from</a> and made few modifications.<h3>
-<h3>It generates the hand written digits.</h3>
+<p>This code is slightly modified verion of the actual code <a href="https://github.com/llSourcell/Generative_Adversarial_networks_LIVE">from</a></p>
+<p>It generates hand written digits of MNIST dataset.</p>
